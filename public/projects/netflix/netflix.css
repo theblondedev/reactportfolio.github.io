@@ -1,0 +1,417 @@
+ul.first{ float:left;
+    color: red;}
+    
+    ul.second{ float:right;}
+    
+    h2.three{ color:pink;}
+    
+    div.content { width: 1000px }
+     
+    
+    body{
+      background-color: #000;
+      font-family: "Arial", sans-serif;
+      
+      margin:0px;
+    }
+    
+    img.net {
+    width: 200px;
+    position: relative;
+      right: -200px;
+      top: 20px;
+      height:auto;
+    }
+    
+    #show_bg_2 {
+        background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)),
+          linear-gradient(to top, rgba(0.9, 0, 0, 0), rgba(0.9, 0, 0, 0)),
+        url('https://assets.codepen.io/11861884/AU-en-20240115-trifectadaily-perspective_alpha_website_large.jpg?format=auto');
+        width: 100%;
+        height: 600px;
+        background-size: cover;
+        color: white;
+        padding: 20px;
+      position:absolute;
+    }
+    
+    button.nav{ 
+     color: white;
+     background-color: red;
+     border: none;
+     padding: 8px 15px;
+     border-radius: 6px;
+    position:absolute;
+      top:15%;
+      right:10%;
+    }
+    
+    button.header{ 
+      position:absolute;
+      top:440px;
+      right:30%;
+      background-color: red;
+      border: none;
+      width: 13vw;
+      height: 3.5vw;
+      font-size: 1.5vw;
+      color: #FFFFFF;
+      border-radius: 0.3vw;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    button.header2{ 
+     position:absolute;
+      top:2570px;
+      right:30%;
+    
+      background-color: red;
+      border: none;
+      width: 13vw;
+      height: 3.5vw;
+      font-size: 1.5vw;
+      color: #FFFFFF;
+      border-radius: 0.3vw;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    
+    .headertxt{
+     position:relative; top:250px; left:370px; margin-left:0px; margin-right:10px;
+      
+        font-weight: bold;
+      font-size:50px;
+    font-family: "Arial", sans-serif;
+    }
+    .subheadertxt{
+      position:relative; top:270px; left:560px;       margin-left:0px; margin-right:10px;
+      font-size:25px;
+      font-family: "Arial", sans-serif;
+    
+    }
+    .subheadertxt2{
+      position:relative; top:290px; left:420px;       margin-left:0px; margin-right:10px;
+      font-size:20px;
+      font-family: "Arial", sans-serif;
+    
+    }
+    .subheadertxt23{
+      position: relative;  top:70px;
+      font-size:20px;
+      font-family: "Arial", sans-serif;
+      
+    
+    }
+    
+    
+    .container, .container2 {
+      background-color: #94000000;
+      border-radius: 5px;
+      padding: 20px;
+      position: absolute;
+    }
+    
+    .container {
+     position:relative; top: 125px;
+      left:400px;
+    }
+    
+    .container2 {
+     position:relative; 
+      left:400px;
+    }
+    
+    /* Style inputs with type="text", select elements, and textareas */
+    input[type=text], select, textarea {
+      color: #ffffff;
+      background-color: #00000080;
+      font-size: 15px;
+      width: 400px; /* Full width */
+      padding: 19px; /* Some padding */
+      border: 1px solid red; /* Gray border */
+      border-radius: 4px; /* Rounded borders */
+      box-sizing: border-box; /* Make sure that padding and width stays in place */
+      margin-top: 8px; /* Add a top margin */
+      margin-bottom: 16px; /* Bottom margin */
+      resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+    }
+    
+    
+    .div2h1{
+    position:relative; top:0px; left:570px; margin-left:0px; margin-right:10px;
+      
+        font-weight: bold;
+      font-size:23px;
+    font-family: "Arial", sans-serif;
+      color: white;
+    }
+    
+    .div2h2{
+    position:relative; top:-10px; left:570px; margin-left:0px; margin-right:10px;
+    font-size:19px;
+    font-family: "Arial", sans-serif;
+    color: white;
+    }
+    .div2h3{
+    position:relative; top:30px; left:290px; margin-left:0px; margin-right:10px;
+    font-size:18px;
+    font-family: "Arial", sans-serif;
+    color: #448EF4;
+    
+    }
+    .end-btn {
+      margin-top: 2vw;
+      background-color: #DAA521;
+      border: none;
+      width: 15vw;
+      height: 3vw;
+      font-size: 1.5vw;
+      color: #FFFFFF;
+      border-radius: 0.5vw;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    
+    
+    .radlog{
+    position:relative; top:250px; left:370px;
+    
+    background: radial-gradient(59.39% 511.66% at 47.68% -270.91%, #ff9900 0%, #e50914 25.27%, #0e1b4f 79.44%, #000413 100% );
+      height: 150px;
+      width: 1400px;
+      box-shadow: 0px -8px 25px rgba(0, 0, 0, 0.5);
+      border-radius: 2px;
+        margin: 0 -300px;
+        color: white;
+        padding: 22px;
+    }
+    
+    .headertxtdiv2{
+      background-color:black;
+     position:relative; top:650px; left:370px; margin-left:0px; margin-right:10px;
+      
+        font-weight: bold;
+      font-size:50px;
+    font-family: "Arial", sans-serif;
+      
+      color:pink;
+    }
+    
+    .arrow {
+      position:relative; top:32px; left:290px;
+      border: solid #448EF4;
+      border-width: 0 3px 3px 0;
+      display: inline-block;
+      padding: 5px;
+      
+    }
+    
+    .right {
+      transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+    }
+    
+    img.popcorn{
+      
+      position:relative;
+      right: -440px;
+      top: -90px;
+      
+      width:120px;
+      height:100%;
+    }
+    
+    
+    .bodyp1{
+    
+     position:relative; top:350px; left:250px;  margin-left:0px; margin-right:10px;
+     font-weight: bolder;
+     font-size:45px;
+      font-family: "Arial", sans-serif;
+      color:white;
+    }
+    
+    .bodyp2{
+    position:relative; top:340px; left:250px;       margin-left:0px; margin-right:10px;
+      font-size:25px;
+      font-family: "Arial", sans-serif;
+      font-weight: lighter;
+      color:white;
+      line-height: 150%;
+    }
+    
+    img.tv{
+      position:relative;
+      right: -870px;
+      top: -190px;
+      
+     width:35%;
+      height:100%;
+    
+    }
+    hr.new4 {
+      border: 1px solid red;
+      top: 200px;
+    width:100%;
+    }
+    .bodyp12{
+    
+     position:relative; top:150px; left:750px;  margin-left:0px; margin-right:10px;
+     font-weight: bolder;
+     font-size:45px;
+      font-family: "Arial", sans-serif;
+      color:white;
+    }
+    
+    .bodyp22{
+    position:relative; top:150px; left:750px;       margin-left:0px; margin-right:10px;
+      font-size:25px;
+      font-family: "Arial", sans-serif;
+      font-weight: lighter;
+      color:white;
+      line-height: 150%;
+    }
+    
+    img.tv2{
+      position:relative;
+      left: 250px;
+      top: -350px;
+        
+     width:35%;
+      height:100%;
+    
+    }
+    
+    .bodyp2f{
+    text-align:center;
+      font-size:30px;
+      font-family: "Arial", sans-serif;
+      font-weight: bold;
+      color:white;
+      line-height: 150%;
+    }
+    
+    .faqli{
+    margin: 0 auto;
+      font-size:25px;
+      font-family: "Arial", sans-serif;
+      color:white;
+      line-height: 150%;
+      width:900px;
+      max-width:900px;
+    
+    }
+    
+    /* Style the button that is used to open and close the collapsible content */
+    .collapsible {
+      background-color: rgb(48,48,48);
+      color: white;
+      cursor: pointer;
+      padding: 25px 15px;
+      width:100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 24px;
+      font-family: "Arial", sans-serif;
+      margin-bottom:6px;
+    }
+    
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active, .collapsible {
+      background-color: white;
+    }
+    .collapsible:hover {
+      background-color:#4d4c4c;
+    }
+    
+    .collapsible:after {
+      content: '\002B'; 
+      content-size:50px;
+      color: white;
+      font-weight: light;
+      float: right;
+      margin-left: 5px;
+    }
+    
+    .active:after {
+      content: "\00D7";
+    }
+    
+    /* Style the collapsible content. Note: hidden by default */
+    .content {
+      width:100%;
+      padding: 10px 15px;
+      display: none;
+      background-color: rgb(48,48,48);
+      margin-bottom:3px;
+        transition: max-height 0.2s ease-out;
+    }
+    
+    
+    
+    @media screen and (min-width: 1280px) {
+      .contain {
+        width: 1200px;
+        margin: 0 auto;
+      }
+    }
+    
+    
+        .faqli {
+            font-size: 18px;
+        }
+      .q p {
+      color: white;
+      font-size: 18px;
+      position: relative;
+      margin: 0 210px; 
+    }
+    
+    
+    /* Footer styles */
+    footer {
+      background-color: black;
+      color: white;
+      font-size: 14px;
+      padding: 20px 0;
+      text-align: left;
+    }
+    
+    .footer .contain {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+    
+    .footer .col {
+      width: calc(25% - 20px); /* Four columns on desktop */
+      padding: 0 10px;
+    }
+    
+    
+    .footer .col ul {
+      list-style-type: none;
+      padding: 0;
+       color: #D3D3D3;
+      text-decoration: underline;
+    }
+    
+    .footer .col ul li {
+      margin-bottom: 8px;
+    }
+    
+    .footer .col ul li a{
+      color: white;
+      text-decoration: none;
+    }
+    
+    @media (max-width: 768px) {
+      .footer .col {
+        width: calc(50% - 20px); /* Two columns on mobile */
+        margin-bottom: 20px;
+      }
+    }
