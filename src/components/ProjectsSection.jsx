@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Netflix Home page",
     description: "A beautiful landing page app using Html and CSS. Link coming soon",
-    image: "src/assets/netfliximg.png",
+    image: "/images/netfliximg.png",
     tags: ["Html", "Css", "Personal Project"],
     demoUrl: "",
     githubUrl: "https://github.com/theblondedev/netflixhomepage.git",
@@ -15,7 +15,7 @@ const projects = [
     title: "Expense Tracker",
     description:
       "Interactive expense tracker analytics dashboard with data visualization and filtering capabilities. Link coming soon",
-    image: "src/assets/reactimg.png",
+    image: "/images/reactimg.png",
     tags: ["React", "Html", "CSS", "Personal Project"],
     demoUrl: "https://incomeandexpensesreact.netlify.app/",
     githubUrl: "https://github.com/theblondedev/expense-tracker-react",
@@ -25,7 +25,7 @@ const projects = [
     title: "Fast Api Program",
     description:
       "FastAPI app that creates a fun psychological profile using user input and external APIs.",
-    image: "src/assets/fastapiimg.png",
+      image: "/images/fastapiimg.png",
     tags: ["Python", "Pycharm", "University assignment"],
     demoUrl: "https://fastapiapp1.onrender.com",
     githubUrl: "https://github.com/theblondedev/fastapiapp1",
