@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "Java Program",
+    title: "Fast Api Program",
     description:
       "A univeristy univeristy assignment where I had to program a Library system. Link coming soon",
-    image: "/projects/project3.png",
-    tags: ["Java", "VScode"],
-    demoUrl: "#",
-    githubUrl: "#",
+    image: "/projects/fastapiimg.png",
+    tags: ["Python", "Pycharm", "University assignment"],
+    demoUrl: "https://fastapiapp1.onrender.com",
+    githubUrl: "https://github.com/theblondedev/fastapiapp1",
   },
 ];
 
