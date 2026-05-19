@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "Fast Api Program",
     description:
-      "A univeristy univeristy assignment where I had to program a Library system. Link coming soon",
+      "FastAPI app that creates a fun psychological profile using user input and external APIs.",
     image: "/projects/fastapiimg.png",
     tags: ["Python", "Pycharm", "University assignment"],
     demoUrl: "https://fastapiapp1.onrender.com",

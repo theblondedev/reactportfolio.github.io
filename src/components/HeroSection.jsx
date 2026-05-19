@@ -23,7 +23,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-          I’m a keen React enthusiast and a 3rd year Software Engineering student, excited to build my skills and create engaging front-end experiences. I’m passionate about learning, growing, and bringing ideas to life through code.
+          I’m a 3rd-year Software Engineering student and React developer focused on building clean, responsive, and engaging front-end experiences. I enjoy turning ideas into functional, user-friendly interfaces and continuously growing my skills through real-world projects and hands-on learning.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
